@@ -1,0 +1,24 @@
+{
+  "name": "devopscicd",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Chandan-yad/KIET_DEVOPS#readme",
+  "bugs": {
+    "url": "https://github.com/Chandan-yad/KIET_DEVOPS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chandan-yad/KIET_DEVOPS.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/express": "^5.0.6",
+    "express": "^5.2.1"
+  }
+}
